@@ -18,7 +18,7 @@ ___________________________________________________________________
 #### Feel free to [share](https://github.com/dizzydroid/ASU_CodeForces-Tasks/discussions) your solutions as well! 😁
 
 ___________________________________________________________________
-### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_CodeForces-Tasks/discussions) tab and fire away!!
+### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_CodeForces-Tasks/discussions) tab and fire away!
 ___________________________________________________________________
 
 <h1 align="center">Thanks for visiting 😊</h1>
