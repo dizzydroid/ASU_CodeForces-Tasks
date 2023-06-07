@@ -34,15 +34,27 @@ Two integer numbers −1000 ≤ _a,b_ ≤ 1000
 An integer number = the maximum of the two inputs.
 
 ### Examples<br>
+
  ```input```<br>
+
 1 2<br>
+
  ```output```<br>
+
 **2**<br>
+
  ```input```<br>
+
 5 5<br>
+
  ```output```<br>
+
 **5**<br>
+
  ```input```<br>
+
 2 1<br>
+
 ```output```<br>
+
 **1**

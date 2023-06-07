@@ -21,19 +21,27 @@ Calculate the 2 sides of Triangle and the Third angle using sin law.
 - The lengths of the other two sides(side2,side3).
 
 ### Examples<br>
+
  ```input```<br>
+
 10 <br>
 20 <br>
 30 <br>
+
  ```output```<br>
+
 **130 <br>
 4.46476 <br>
 6.52704**<br>
+
  ```input```<br>
+
 20<br>
 30<br>
 40<br>
+
  ```output```<br>
+
 **110<br>
 10.6418<br>
 13.6808**<br>

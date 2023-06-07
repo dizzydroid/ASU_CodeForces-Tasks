@@ -38,8 +38,10 @@ Show the most frequent element in the entered values.
 1
 
 ### Examples<br>
+
  ```input```<br>
 5 1 1 1 2 5 <br>
+
  ```output```<br>
 **1** <br>
 

@@ -46,24 +46,34 @@ Display the most largest k elements
 5 4 3
 
 ### Examples<br>
+
  ```input```<br>
 5 3 1 2 3 4 5 <br>
+
  ```output```<br>
 **5 4 3** <br>
+
  ```input```<br>
 5 2 1 2 3 4 5 <br>
+
  ```output```<br>
 **5 4** <br>
+
  ```input```<br>
 6 3 1 2 3 4 5 6 <br>
+
  ```output```<br>
 **6 5 4** <br>
+
  ```input```<br>
 1 2 1 <br>
+
  ```output```<br>
 **1 0** <br>
+
  ```input```<br>
 3 4 1 2 3 <br>
+
  ```output```<br>
 **3 2 1 0** <br>
 

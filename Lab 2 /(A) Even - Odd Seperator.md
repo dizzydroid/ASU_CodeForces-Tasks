@@ -28,20 +28,28 @@ Display 2 arrays, each in a different line, as follows:
 1 3 5 ( odd array)
 
 ### Examples<br>
+
  ```input```<br>
 5 1 2 3 4 5 <br>
+
  ```output```<br>
 **2 4** <br> **1 3 5** <br>
+
  ```input```<br>
 7 1 2 3 4 5 6 7<br>
+
  ```output```<br>
 **2 4 6** <br> **1 3 5 7** <br>
+
  ```input```<br>
 3 1 1 1 <br>
+
  ```output```<br>
 **1 1 1** <br>
+
  ```input```<br>
 1 1 2 3 4 <br>
+
  ```output```<br>
 **1** <br>
 

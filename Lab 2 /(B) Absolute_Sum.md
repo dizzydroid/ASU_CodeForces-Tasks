@@ -33,12 +33,16 @@ show the sum of the absolute value of each element.
 25
 
 ### Examples<br>
+
  ```input```<br>
 5 2 -1 4 8 10 <br>
+
  ```output```<br>
 **25** <br>
+
  ```input```<br>
 5 -3 -4 -10 -2 -3 <br>
+
  ```output```<br>
 **22** <br>
 

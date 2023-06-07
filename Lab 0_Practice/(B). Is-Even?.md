@@ -40,15 +40,27 @@ An integer number −1000 ≤ _n_ ≤ 1000
  otherwise.
 
 ### Examples
+
  ```input```<br>
+
 27<br>
+
  ```output```<br>
+
 **0**<br>
+
  ```input```<br>
+
 358<br>
+
  ```output```<br>
+
 **1**<br>
+
  ```input```<br>
+
 -649<br>
+
 ```output```<br>
+
 **0**

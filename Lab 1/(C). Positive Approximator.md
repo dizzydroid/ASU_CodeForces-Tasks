@@ -16,12 +16,20 @@ A single number 0<x≤500
 A single whole number which is the result of approximating x to the nearest whole number.
 
 ### Examples<br>
+
  ```input```<br>
+
 2.8<br>
+
  ```output```<br>
+
 **3**<br>
+
  ```input```<br>
+
 1.2<br>
+
  ```output```<br>
+
 **1**<br>
 

@@ -35,12 +35,20 @@ Two integer numbers −1000 ≤ _n,m_ ≤ 1000 and m≠0
  otherwise.
 
 ### Examples<br>
+
  ```input```<br>
+
 81 9<br>
+
  ```output```<br>
+
 **1**<br>
+
  ```input```<br>
+
 118 17<br>
+
  ```output```<br>
+
 **0**<br>
  

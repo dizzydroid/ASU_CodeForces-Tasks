@@ -15,12 +15,20 @@ A single character which is a lowercase English letter.
 ## Output
 A single character which represents the following lowercase English letter or the first letter of the alphabet if there is no following letter.
 ### Examples<br>
+
  ```input```<br>
+
 a<br>
+
  ```output```<br>
+
 **b**<br>
+
  ```input```<br>
+
 z<br>
+
  ```output```<br>
+
 **a**<br>
 

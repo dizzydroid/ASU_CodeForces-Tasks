@@ -23,11 +23,19 @@ the input of this problem is *a*, *b* , *c* the coefficients. −1000 ≤ *a,b,c
 the two roots of equation each root in line. x1 ( positive root ) x2 ( negative root )
 
 ### Examples<br>
+
  ```input```<br>
+
 5<br> 1<br> 1<br>
+
  ```output```<br>
+
 **-0.276393**<br> **-0.723607** <br>
+
  ```input```<br>
+
 1<br> -6<br> 9<br>
+
  ```output```<br>
+
 **3**<br> **3** <br>

@@ -116,11 +116,13 @@ In the main of the program:
 
 
 ### Examples<br>
+
  ```input```<br>
 3 <br>
 CS101 3.7 <br>
 MATH201 3 <br>
 ENGL101 1 <br>
+
  ```output```<br>
 **P CS101 - Introduction to Computer Science** <br>
 **P MATH201 - Calculus I** <br> <br>
@@ -133,6 +135,7 @@ ENGL101 1 <br>
 2 <br>
 CS101 4 <br>
 PHYS101 3 <br>
+
  ```output```<br>
 **P CS101 - Introduction to Computer Science** <br>
 **P PHYS101 - Introduction to Physics** <br> <br>
@@ -143,6 +146,7 @@ PHYS101 3 <br>
  ```input```<br>
 1 <br>
 CHEM101 2.7 <br>
+
  ```output```<br>
 **P CHEM101 - Introduction to Chemistry** <br><br>
 
