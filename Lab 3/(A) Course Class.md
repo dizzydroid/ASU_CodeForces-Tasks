@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%203/Solutions/A%20-%20Course%20Class.cpp">View Solution</a> </b> </pre>
+
 Write a C++ program that receives from a student a list of courses (up to five courses) that he was enrolled, which includes the code of each course along with his grade in that course.
 
 Then, the program outputs a full list of the student's enrolled courses, which illustrate the status of each course whether it was passed or not. The program also outputs the student's total GPA.

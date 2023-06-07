@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%202%20/Solutions/B%20-%20Absolute%20Sum.cpp">View Solution</a> </b> </pre>
+
 size of array is constant = 50
 pass the number of elements received from user (size_arr).
 

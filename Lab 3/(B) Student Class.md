@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%203/Solutions/B%20-%20Student%20Class.cpp">View Solution</a> </b> </pre>
+
 Write a C++ program that receives from a user a list of students, which includes the student code, name, and grades in all of the available five courses in the current semester.
 
 Then, the program outputs a sorted list of all students' names, along with their GPAs.

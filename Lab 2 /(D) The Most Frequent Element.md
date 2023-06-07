@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%202%20/Solutions/D%20-%20The%20Most%20Frequent%20Element.cpp">View Solution</a> </b> </pre>
+
 Write a C++ program to find the most frequent element in a group of integers entered by the user and stored in an array (or a vector).
 
 In case of using arrays, array capacity must be constant (e.g., 50, representing the max number of elements that the user can enter), but user can enter any number of elements <= the max capacity.
