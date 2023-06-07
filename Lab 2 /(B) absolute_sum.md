@@ -1,4 +1,4 @@
-# <p align="center"> A. absolute_sum </p>
+# <p align="center"> B. absolute_sum </p>
 
 <p align="center">
   time limit per test: 1 second <br>
