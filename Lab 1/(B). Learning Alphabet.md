@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%201/Solutions/B%20-%20Learning%20Alphabet.cpp">View Solution</a> </b> </pre>
+
 As a child, you learned the alphabet. As a first step of you teaching your computer stuff, it makes sense to make it learn the alphabet as well. Given a lowercase English letter, output the next letter in the alphabet. In case the alphabet is over, you should output the first letter of the alphabet.
 
 ## Input

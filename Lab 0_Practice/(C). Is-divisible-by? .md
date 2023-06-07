@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%200_Practice/Solutions/C%20-%20Is-divisible-by%3F%20.cpp">View Solution</a> </b> </pre>
+
 The program receives two integer numbers _n_ and _m_
 , then, outputs 1
  only if the first input _n_

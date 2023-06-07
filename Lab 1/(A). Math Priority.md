@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%201/Solutions/A%20-%20Math%20Priority.cpp">View Solution</a> </b> </pre>
+
 This problem test how you will write mathematical equation (quadratic-formula) like in the link below.
 <div id="picture" align="center">
   <img src="https://espresso.codeforces.com/41ebf72bdae96e60e963a9ddc5b3abc95de6b183.png" width="700"/>

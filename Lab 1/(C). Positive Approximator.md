@@ -7,6 +7,9 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%201/Solutions/C%20-%20Positive%20Approximator.cpp">View Solution</a> </b> </pre>
+
+
 You're given a positive real number x. Approximate it to the nearest whole number.
 
 ## Input

@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%200_Practice/Solutions/B%20-%20Is-Even%3F%20.cpp">View Solution</a> </b> </pre>
+
 The program receives an integer number n
  and outputs 1
  only if the input is an even number.

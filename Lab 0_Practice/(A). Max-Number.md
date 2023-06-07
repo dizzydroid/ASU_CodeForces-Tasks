@@ -7,6 +7,8 @@ input: standard input<br>
 output: standard output
 </p>
 
+<pre align = "center"> <b> <a href="https://github.com/dizzydroid/ASU_CodeForces-Tasks/blob/main/Lab%200_Practice/Solutions/A%20-%20Max-Number.cpp">View Solution</a> </b> </pre>
+
 The program receives two input numbers a
  and b
  and outputs the greater number.
